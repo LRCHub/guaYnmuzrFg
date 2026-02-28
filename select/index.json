@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Drip",
+  "base_artist": "岩見 陸",
+  "createdAt": "2026-02-28T20:16:58.605727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drip",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/01_Drip_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drip Jacker",
+      "artist": "Zaytoven",
+      "has_synced": true,
+      "path": "select/02_Drip_Jacker_Zaytoven.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drip Jacker",
+      "artist": "Lil Gotit & ZAYTOVEN",
+      "has_synced": true,
+      "path": "select/03_Drip_Jacker_Lil_Gotit_&_ZAYTOVEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "2 Tone Drip",
+      "artist": "YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/04_2_Tone_Drip_YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Drip (feat. Gucci Mane)",
+      "artist": "Almighty Jay feat. YBN Nahmir & Gucci Mane",
+      "has_synced": true,
+      "path": "select/05_New_Drip_(feat._Gucci_Mane)_Almighty_Jay_feat._YBN_Nahmir_&_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Drip (feat. Gucci Mane)",
+      "artist": "YBN Nahmir & YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/06_New_Drip_(feat._Gucci_Mane)_YBN_Nahmir_&_YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sauce Like The Drip",
+      "artist": "Yung Bans",
+      "has_synced": false,
+      "path": "select/07_Sauce_Like_The_Drip_Yung_Bans.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drip",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/08_Drip_Liars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drip",
+      "artist": "Matt OX",
+      "has_synced": false,
+      "path": "select/09_Drip_Matt_OX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Add a Lil Drip (feat. Yung Slatt)",
+      "artist": "Lil Keed feat. Yung Slatt",
+      "has_synced": true,
+      "path": "select/10_Add_a_Lil_Drip_(feat._Yung_Slatt)_Lil_Keed_feat._Yung_Slatt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Add a Lil Drip (feat. Yung Slatt)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/11_Add_a_Lil_Drip_(feat._Yung_Slatt)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drip School (feat. Lil Durk)",
+      "artist": "Lil Gotit feat. Lil Durk",
+      "has_synced": false,
+      "path": "select/12_Drip_School_(feat._Lil_Durk)_Lil_Gotit_feat._Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drip Day N Night (feat. Gunna & Lil Keed)",
+      "artist": "Lil Gotit feat. Gunna & Lil Keed",
+      "has_synced": true,
+      "path": "select/13_Drip_Day_N_Night_(feat._Gunna_&_Lil_Keed)_Lil_Gotit_feat._Gunna_&_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drip Day N Night (feat. Gunna & Lil Keed)",
+      "artist": "Lil Gotit;Gunna;Lil Keed",
+      "has_synced": true,
+      "path": "select/14_Drip_Day_N_Night_(feat._Gunna_&_Lil_Keed)_Lil_Gotit;Gunna;Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Acid Drip",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/15_Acid_Drip_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drip (feat. Erika Jayne)",
+      "artist": "Brooke Candy feat. Erika Jayne",
+      "has_synced": true,
+      "path": "select/16_Drip_(feat._Erika_Jayne)_Brooke_Candy_feat._Erika_Jayne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Drip (feat. Erika Jayne)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/17_Drip_(feat._Erika_Jayne)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Palm Springs (feat. In.Drip.)",
+      "artist": "Luna Shadows",
+      "has_synced": true,
+      "path": "select/18_Palm_Springs_(feat._In.Drip.)_Luna_Shadows.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Drip",
+      "artist": "City Girls",
+      "has_synced": true,
+      "path": "select/19_Drip_City_Girls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drip",
+      "artist": "岩見陸",
+      "has_synced": false,
+      "path": "select/pl_01_Drip_岩見陸.txt"
+    }
+  ]
+}
